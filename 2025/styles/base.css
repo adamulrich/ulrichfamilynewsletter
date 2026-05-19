@@ -60,3 +60,9 @@
             line-height: 1.6;
             text-align: justify;
         }
+
+        ul {
+            line-height: 1.6;
+            margin: 0 0 20px 20px;
+            padding-left: 20px;
+        }
