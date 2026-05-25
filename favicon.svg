@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Ulrich Family Newsletter favicon</title>
+  <desc>Blue house with red heart favicon for Ulrich Family Newsletter</desc>
+
+  <rect x="0" y="0" width="512" height="512" rx="96" fill="#0a1a2e"/>
+
+  <!-- House body -->
+  <rect x="136" y="290" width="240" height="160" rx="10" fill="#1565c0"/>
+
+  <!-- Roof -->
+  <polygon points="108,296 256,120 404,296" fill="#1976d2"/>
+
+  <!-- Door -->
+  <rect x="220" y="356" width="72" height="94" rx="8" fill="#0a1a2e"/>
+
+  <!-- Windows -->
+  <rect x="148" y="318" width="52" height="44" rx="6" fill="#90caf9" opacity="0.85"/>
+  <rect x="312" y="318" width="52" height="44" rx="6" fill="#90caf9" opacity="0.85"/>
+
+  <!-- Heart above door -->
+  <path d="M256 248 C256 224 228 208 218 224 C208 208 180 224 180 248 C180 272 218 294 218 294 C218 294 256 272 256 248Z" fill="#e05555"/>
+
+</svg>
